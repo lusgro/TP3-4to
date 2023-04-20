@@ -68,7 +68,7 @@ do
          {
             int tipoEntrada = Funciones.IngresarEnteroEnRango("Ingresar tipo de entrada (1-2-3-4): ", 1, 4);
             int totalAbonado = ARRAY_PRECIOS[tipoEntrada - 1];
-            bool pudoCambiar = Tiquetera.CambiarEntrada(clienteEncontrado, tipoEntrada, totalAbonado);
+            bool pudoCambiar = Tiquetera.CambiarEntrada(id, tipoEntrada, totalAbonado);
             if (pudoCambiar)
             {
                Console.ForegroundColor = ConsoleColor.Green;

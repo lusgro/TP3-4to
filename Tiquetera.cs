@@ -33,13 +33,13 @@ public static class Tiquetera {
       else return null;
    }
 
-   public static bool CambiarEntrada(Cliente cliente, int tipo, int total)
+   public static bool CambiarEntrada(int id, int tipo, int total)
    {
-      if (tipo != cliente.tipoEntrada && total > cliente.totalAbonado)
+      if (tipo != dicClientes[id].tipoEntrada && total > dicClientes[id].totalAbonado)
       {
-         cliente.tipoEntrada = tipo;
-         cliente.totalAbonado = total;
-         cliente.fechaInscripcion = DateTime.Now;
+         dicClientes[id].tipoEntrada = tipo;
+         dicClientes[id].totalAbonado = total;
+         dicClientes[id].fechaInscripcion = DateTime.Now;
          return true;
       }
       else return false;
