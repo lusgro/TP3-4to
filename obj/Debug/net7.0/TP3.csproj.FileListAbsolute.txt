@@ -1,0 +1,15 @@
+Z:\4IB\Programacion\TP3\bin\Debug\net7.0\TP3.exe
+Z:\4IB\Programacion\TP3\bin\Debug\net7.0\TP3.deps.json
+Z:\4IB\Programacion\TP3\bin\Debug\net7.0\TP3.runtimeconfig.json
+Z:\4IB\Programacion\TP3\bin\Debug\net7.0\TP3.dll
+Z:\4IB\Programacion\TP3\bin\Debug\net7.0\TP3.pdb
+Z:\4IB\Programacion\TP3\obj\Debug\net7.0\TP3.csproj.AssemblyReference.cache
+Z:\4IB\Programacion\TP3\obj\Debug\net7.0\TP3.GeneratedMSBuildEditorConfig.editorconfig
+Z:\4IB\Programacion\TP3\obj\Debug\net7.0\TP3.AssemblyInfoInputs.cache
+Z:\4IB\Programacion\TP3\obj\Debug\net7.0\TP3.AssemblyInfo.cs
+Z:\4IB\Programacion\TP3\obj\Debug\net7.0\TP3.csproj.CoreCompileInputs.cache
+Z:\4IB\Programacion\TP3\obj\Debug\net7.0\TP3.dll
+Z:\4IB\Programacion\TP3\obj\Debug\net7.0\refint\TP3.dll
+Z:\4IB\Programacion\TP3\obj\Debug\net7.0\TP3.pdb
+Z:\4IB\Programacion\TP3\obj\Debug\net7.0\TP3.genruntimeconfig.cache
+Z:\4IB\Programacion\TP3\obj\Debug\net7.0\ref\TP3.dll
